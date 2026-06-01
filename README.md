@@ -1,6 +1,6 @@
 # Metroidvania
 
-![Capa do jogo](Imagens/ArteConceitual.png)
+![Capa do jogo](ArteConceitual.png)
 
 Projeto de jogo 2D desenvolvido em Unity e C#.
 
