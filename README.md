@@ -1,8 +1,9 @@
 # Metroidvania
 
-![Capa do jogo](ArteConceitual.png)
+<p align="center">
+  <img src="ArteConceitual.png" width="900">
+</p>
 
-Projeto de jogo 2D desenvolvido em Unity e C#.
 
 # Metroidvania
 
